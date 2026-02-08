@@ -90,36 +90,37 @@ This belongs in the Complex domain because outcomes emerge from interactions amo
 
 ### Chaotic
 
----
+**Paragraph 1 – Scenario**
+
+An example of the chaos Cynefin domain in software development would be a major infrastructure issue causing everything to go offline and not work such as an AWS outage if we are using that to host our Web App. This scenario would necessitate immediate action to avoid unnecessary loses. The cause of the situation would not be immediately clear as from our perspective likely all we would know at the start is that our web app is down. To get to a solution you would likely need to use a temporary solution to fix the immediate issue and then need to come up with a permanent fix afterwards.
+
+**Paragraph 2 – Why it fits**
+
+This scenario fits in with the chaos quadrant because it would require an urgent resolution to avoid company losses. Organizing a team and putting together a structured plan to discover the root cause would likely be required depending on the size of the web app. The solution would need to be tiered, there would need to be a quick solution to make the web app functional in the mean time, but then a final solution would need to be made to prevent this issue from occurring in the future.
+
+**AI-refined**
+
+**Paragraph 1 – Scenario (refined)**
+
+An example of the chaotic Cynefin domain in software development is a major infrastructure failure that causes a system-wide outage, such as an unexpected AWS service disruption hosting a web application. In this situation, there is no immediately apparent cause—from the team’s perspective, the only clear signal is that the application is down. The priority is not analysis but rapid action to restore stability and prevent further losses. Teams must act decisively, often implementing temporary or improvised solutions to bring the system back online. Only once stability is regained can the underlying causes be investigated and a permanent fix designed.
+
+**Paragraph 2 – Why it fits (refined)**
+
+This scenario belongs in the chaotic Cynefin domain because it demands immediate action to prevent significant business losses, leaving little to no time for structured analysis. At the outset, there is no clear understanding of the root cause—only the visible impact that the web application is unavailable. Attempting to first organize a team or follow a detailed investigative plan would delay recovery and increase risk. Instead, the priority is to act quickly to restore functionality, often through temporary or ad hoc measures. Once stability is re-established, the situation can then be reassessed to identify the underlying cause and implement a long-term solution to prevent recurrence.
+
 
 ## Visual Component
-As a team, create a hand-drawn diagram inspired by the Wikipedia Cynefin image:
 
-Reference: See the Cynefin Framework diagram on Wikipedia (also available in SimulCorp resources) Cynefin Framework by Edwin Stoop.
-
-Your version should:
-- Use the same quadrant structure
-- Replace examples with software development scenarios relevant to your diploma program
-- Include your team’s scenarios in each quadrant
-- Be hand-drawn (not digital) — scan or photograph for submission
-
-Using AI to Refine:
-- Write your initial paragraphs in your own words
-- Use an AI assistant to refine clarity and completeness
-- Include both original AND AI‑refined versions
-
-Deliverable (per domain owner):
-- 2 paragraphs describing a software development scenario
-- Original + AI‑refined versions
-- Contribution to the team’s hand‑drawn diagram
-
----
 
 ## Part 3: Team Reflection
-Reflect on the process of working together:
-- How did the collaboration structure work for your team?
-- What was it like for the Chaotic owner to have everyone’s input?
-- What was it like for the Clear owner to work alone?
-- What did you learn about your teammates through this exercise?
 
-Deliverable: Team reflection (250–400 words)
+When reflecting on the process of working together we decided to collaborate over Microsoft Teams for communication purposes. We worked as a group on a shared Google Docs sheet, which allowed us to see each other’s contributions in real-time. Then simply when it came to dividing tasks, we chose a domain that suited our interests. In preparation for submission, we had one group member step up and tackle the submission and another group member prepare the files that we need for the format of the submission on GitHub. 
+
+Through this exercise, the team was very open and communicative. The group was great to work with because we each spoke out whenever we had questions or uncertainties, and actively worked together to find solutions and complete the task.
+
+From the perspective of the Clear domain owner, the structure of this assignment made the work very straightforward. Working alone on the Clear domain reflected the nature of clear problems themselves — there was little ambiguity, and existing best practices guided the solution. They did not need extensive discussion with the team, which reinforced the idea that not all problems require collaboration to move forward effectively.
+
+From the perspective of the Chaotic domain owner, the most difficult part was coming up with a situation that required a quick action, but is not so straightforward that there is not much to resolve at the end. The discussions with the team helped in coming up with a good situation and understanding why it fit in the domain.
+
+Observing the other domains highlighted how different the experiences were. The Chaotic domain required more discussion and coordination, while the Complex domain involved exploration and multiple viewpoints. This contrast helped the team to better understand how problem types influence teamwork and decision-making. Overall, the Cynefin framework helped clarify when to act quickly, when to analyze deeply, and when to rely on established patterns, which will be valuable during future sprint work.
+
